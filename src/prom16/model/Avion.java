@@ -1,3 +1,5 @@
+package prom16.model;
+
 import java.time.LocalDate;
 
 public class Avion {
