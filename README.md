@@ -1,5 +1,7 @@
 # Gestion de Réservations de Vols ✈️
 
+![Animation de Vol](https://media.giphy.com/media/3o7buip2i9U7JjQ3o0/giphy.gif) 
+
 Bienvenue dans le projet de gestion de réservations de vols ! Ce projet permet aux utilisateurs de rechercher des vols, de réserver des sièges, et de gérer leurs réservations à l'aide d'une application Java intégrée à une base de données PostgreSQL.
 
 ## Table des matières
@@ -21,10 +23,10 @@ Bienvenue dans le projet de gestion de réservations de vols ! Ce projet permet 
 
 ## Technologies Utilisées 🛠️
 
-- **Langage** : Java
-- **Base de Données** : PostgreSQL
-- **DAO** : JDBC / JPA / Hibernate
-- **Web Framework** : Sals.jar (framework fait maison)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![JPA](https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=java&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) 
 
 ## Installation 🚀
 
