@@ -29,7 +29,3 @@ Bienvenue dans le projet de gestion de réservations de vols ! Ce projet permet 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) 
 
 ## Installation 🚀
-
-1. Clonez ce dépôt sur votre machine :
-   ```bash
-   git clone https://github.com/votre-utilisateur/gestion-reservation-vols.git
