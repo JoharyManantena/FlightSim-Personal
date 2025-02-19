@@ -1,6 +1,6 @@
 # Gestion de Réservations de Vols ✈️
 
-![Animation de Vol](https://media.giphy.com/media/3o7buip2i9U7JjQ3o0/giphy.gif) 
+![Animation de Vol]([https://media.giphy.com/media/3o7buip2i9U7JjQ3o0/giphy.gif](https://i.gifer.com/MCn2.gif)) 
 
 Bienvenue dans le projet de gestion de réservations de vols ! Ce projet permet aux utilisateurs de rechercher des vols, de réserver des sièges, et de gérer leurs réservations à l'aide d'une application Java intégrée à une base de données PostgreSQL.
 
